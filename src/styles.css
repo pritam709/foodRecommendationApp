@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.head {
+  background-color: burlywood;
+  border-radius: 20px;
+  padding: 2rem;
+  margin-bottom: 40px;
+}
+
+.item {
+  background-color: burlywood;
+  padding: 5px;
+  margin: 20px;
+  border: 2px solid;
+  border-radius: 10px;
+}
+.foodList {
+  list-style: none;
+  font-size: 2rem;
+}
